@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+React-Youtube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Its my first project as i started learning React.
+It uses the Yoututbe API to fetch data, and React.js to render it on the broswer.
+Its cool because its slightly faster than youtube, as *only* the searched videos are fetched by the brower.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+To get started with this project to contribute :
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/eoo/react-youtube.git
+> cd react-youtube
 > npm install
 > npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
